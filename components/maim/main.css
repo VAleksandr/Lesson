@@ -1,0 +1,12 @@
+.main-wrapper {
+  width: 80%;
+  margin: 50px auto;
+}
+
+.main-wrapper__title {
+  margin-bottom: 20px;
+}
+
+.main-wrapper__submit-btn {
+  margin-top: 20px;
+}
